@@ -78,16 +78,18 @@ Los modelos fueron evaluados utilizando:
 - Validación cruzada de 5 folds.
 
 ## Resultados sobre el conjunto de prueba
-Modelo	             Accuracy	          F1-score
-Árbol de Decisión	    0,4660	          0,3757
-Random Forest	        0,4550	          0,3700
-KNN	                  0,4320	          0,3967
+| Modelo | Accuracy | F1-score |
+|---|---:|---:|
+| Árbol de Decisión | 0,4660 | 0,3757 |
+| Random Forest | 0,4550 | 0,3700 |
+| KNN | 0,4320 | 0,3967 |
 
 ## Validación cruzada
-Modelo	             Accuracy CV (5 folds)
-Árbol de Decisión	        0,4646
-Random Forest  	          0,4756
-KNN	                      0,4244
+| Modelo | Accuracy CV (5 folds) |
+|---|---:|
+| Árbol de Decisión | 0,4646 |
+| Random Forest | 0,4756 |
+| KNN | 0,4244 |
 
 Los resultados muestran diferencias en el comportamiento de los modelos según la métrica utilizada. La validación cruzada permitió complementar la evaluación realizada sobre el conjunto de prueba y analizar el comportamiento de los modelos en diferentes particiones de los datos.
 
