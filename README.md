@@ -27,6 +27,7 @@ Durante la exploración inicial se realizaron:
 - Visualizaciones de la distribución del GPA.
 - Comparación del GPA según GradeClass.
 - Análisis de la relación entre tiempo de estudio semanal y GPA.
+  
 El conjunto de datos presentó 0 valores nulos y 0 registros duplicados.
 
 ## Preprocesamiento
@@ -37,6 +38,7 @@ Se realizaron las siguientes actividades:
 - Aplicación de estandarización mediante StandardScaler como parte de la preparación y análisis de los datos.
 - Generación de dos variables mediante ingeniería de características:
 StudyAbsenceRatio: relación entre el tiempo de estudio semanal y las ausencias.
+
 ActivityCount: cantidad total de actividades extracurriculares, deportivas, musicales y de voluntariado.
 
 ## División de los datos y exclusión de GPA
