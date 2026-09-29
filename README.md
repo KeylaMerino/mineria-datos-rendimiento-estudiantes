@@ -13,6 +13,7 @@ Desarrollar y comparar modelos de minería de datos capaces de clasificar el niv
 - 15 variables
 - Variable objetivo: GradeClass
 - Identificador: StudentID
+
 Las principales variables incluyen edad, género, etnia, educación de los padres, tiempo de estudio semanal, ausencias, tutorías, apoyo parental, actividades extracurriculares, deportes, música, voluntariado y GPA.
 
 ## Fuente del dataset
