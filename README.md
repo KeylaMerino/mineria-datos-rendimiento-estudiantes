@@ -37,6 +37,7 @@ Se realizaron las siguientes actividades:
 - Revisión de las variables categóricas y binarias codificadas numéricamente.
 - Aplicación de estandarización mediante StandardScaler como parte de la preparación y análisis de los datos.
 - Generación de dos variables mediante ingeniería de características:
+
 StudyAbsenceRatio: relación entre el tiempo de estudio semanal y las ausencias.
 
 ActivityCount: cantidad total de actividades extracurriculares, deportivas, musicales y de voluntariado.
